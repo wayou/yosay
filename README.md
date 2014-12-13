@@ -73,5 +73,5 @@ Copyright (c) Google
 
 
 # TODO
-[] fix line break
-[] add option to customize the greeting logo
+[ ] fix line break
+[ ] add option to customize the greeting logo
