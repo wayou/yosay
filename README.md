@@ -70,3 +70,8 @@ $ yosay --help
 
 [BSD license](http://opensource.org/licenses/bsd-license.php)
 Copyright (c) Google
+
+
+# TODO
+[] fix line break
+[] add option to customize the greeting logo
